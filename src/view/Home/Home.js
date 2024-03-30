@@ -3,7 +3,7 @@ import './Home.css'
 import I18n from './../../utlis/I18n';
 function Home() {
 
-    const [lang, setLang] = useState("en");
+    const [lang, setLang] = useState("");
 
     const usersCount = null;
 
